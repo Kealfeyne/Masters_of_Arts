@@ -1,0 +1,14 @@
+numpy==1.24.1
+pandas==1.5.2
+datasets==2.8.0
+transformers==4.25.1
+torchvision==0.14.1
+evaluate==0.4.0
+torch==1.13.1+cu117
+Pillow==9.4.0
+wandb==0.13.9
+tqdm==4.64.1
+catboost==1.1.1
+sklearn==0.0.post1
+scikit-learn==1.2.0
+diffusers==0.12.0
